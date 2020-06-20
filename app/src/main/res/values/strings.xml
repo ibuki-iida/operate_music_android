@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">operate_music</string>
+    <string name="music_title">Title</string>
+    <string name="music_artist">Artist</string>
+    <string name="btn_favorite">☆</string>
+    <string name="btn_back">&lt;</string>
+    <string name="btn_forward">">"</string>
+    <string name="btn_play_pause">□</string>
 </resources>
